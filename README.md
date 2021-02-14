@@ -1,5 +1,3 @@
-This is going to blow up
-
 The Ross Machine (Ross)
 
 
