@@ -4,7 +4,7 @@ Rosscoin integration/staging tree
 http://www.rosscoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Rosscoin Developers
+Copyright (c) 2011-2021 Rosscoin Developers
 
 What is Rosscoin?
 ----------------
