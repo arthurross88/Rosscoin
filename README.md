@@ -11,7 +11,7 @@ What is Rosscoin?
 
 Rosscoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
- - subsidy halves in 2k blocks (~4 years)
+ - subsidy halves in 2k blocks (~.1 years)
  - ~200000 total coins
 
 The rest is the same as Bitcoin.
