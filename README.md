@@ -1,7 +1,7 @@
 Rosscoin integration/staging tree
 ================================
 
-http://www.rosscoin.org
+http://www.rosscoin.nl
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2021 Rosscoin Developers
